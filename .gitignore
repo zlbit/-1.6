@@ -1,0 +1,7 @@
+# 不将未经授权的教材扫描件、PDF或其他外部原件推送到GitHub
+local_sources/
+external_downloads/
+private_notes/
+.DS_Store
+Thumbs.db
+__pycache__/
