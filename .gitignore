@@ -1,4 +1,4 @@
-# 不将未经授权的教材扫描件、PDF或其他外部原件推送到GitHub
+# 本地临时缓存与个人笔记不跟踪；已选择纳入仓库的来源文件单列于00_原始资料/
 local_sources/
 external_downloads/
 private_notes/
