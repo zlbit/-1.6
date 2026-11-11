@@ -1,8 +1,8 @@
 # R2-A阶段验收与R2-B实施建议
 
-日期：2026-11-11  
-工作分支：`feat/exam-retrieval-r2a`  
-基线：R1 `f56dc8ba2182576fe49ddd80384cdb243f81e6f6`  
+日期：2026-11-11
+工作分支：`feat/exam-retrieval-r2a`
+基线：R1 `f56dc8ba2182576fe49ddd80384cdb243f81e6f6`
 参考仓库固定提交：CSU `81d52af8c7dcc1b9a20a2185c2d6f21110d76018`；RUC `4512167e4fe3f932904aa3099a6435d6b1e35b31`
 
 ## 阶段结论
