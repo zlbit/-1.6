@@ -5,3 +5,5 @@ private_notes/
 .DS_Store
 Thumbs.db
 __pycache__/
+
+local_pdf_audit/r2c_page_checks/
